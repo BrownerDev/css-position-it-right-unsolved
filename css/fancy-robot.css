@@ -38,7 +38,7 @@ body {
   }
   
   .robot-ear-left {
-    left: -100px;
+    left: 20px;
     background: #c6ff3a;
     clip-path: polygon(
       0% 0%, 100% 50%, 0% 100%, 20% 50%
@@ -46,7 +46,7 @@ body {
   }
   
   .robot-ear-right {
-    right: -100px;
+    right: 20px;
     background: #e97cff;
     clip-path: polygon(
       100% 0, 0% 50%, 100% 100%, 80% 50%
